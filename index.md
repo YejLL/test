@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # test for website
 
 ## Hellooooo
